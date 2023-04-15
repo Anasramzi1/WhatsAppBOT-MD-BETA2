@@ -15,10 +15,10 @@ const _0x138100=_0x2ef9;(function(_0x11971a,_0x460754){const _0x419220=_0x2ef9,_
 
 
 
-global.autoTyping = false     //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false  //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false     //auto reading in gc (true to on, false to off)
-global.autoRecord = false     //auto recording (true to on, false to off)
+global.autoTyping = true    //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = true  //auto reading in gc and pm (true to on, false to off)
+global.autoReadGc = true     //auto reading in gc (true to on, false to off)
+global.autoRecord = true     //auto recording (true to on, false to off)
 global.available = true       //auto available (true to on, false to off)
 
 
@@ -42,7 +42,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 
 
-global.vcardowner = ['447405935355'] //ur owner number
+global.vcardowner = ['212653405231'] //ur owner number
 
 global.ownername = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' //ur owner name
 
@@ -55,9 +55,9 @@ global.location = "UK, London, hertfordshire" //ur location
 
 
 
-global.owner = ['447405935355']
+global.owner = ['212653405231']
 
-global.ownertag = '447405935355' //ur tag number
+global.ownertag = '212653405231' //ur tag number
 
 global.botname = "𝒜𝓊𝓇𝑜𝓇𝒶 𝐵𝒪𝒯-𝑀𝒟" //ur bot name
 
